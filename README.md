@@ -8,3 +8,6 @@ IDE 用默认 Darcula 配置即可
 缩进全部设置成 2（你喜欢 4 也行）
 - 将 oneline 都勾选上
 - 安装插件 Material Theme UI
+
+## 开源
+https://www.jetbrains.com/shop/eform/opensource
