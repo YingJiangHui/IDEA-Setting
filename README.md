@@ -10,4 +10,4 @@ IDE 用默认 Darcula 配置即可
 - 安装插件 Material Theme UI
 
 ## 开源
-https://www.jetbrains.com/shop/eform/opensource
+https://www.jetbrains.com/community/opensource/#support
