@@ -9,5 +9,5 @@ IDE 用默认 Darcula 配置即可
 - 将 oneline 都勾选上
 - 安装插件 Material Theme UI
 
-## 开源
+## 开源项目申请免费jetbrains
 https://www.jetbrains.com/community/opensource/#support
